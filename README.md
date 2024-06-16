@@ -2,20 +2,14 @@
 
 Stacey's Personal Portfolio Website
 
-#### Full credits to:
+#### Project Information
 
-- HTML5 UP
+Built using
+1. HTML
+2. CSS
+3. Javascript
 
-  - Strata (html5up.net)
+Layout mockups and documentation can be found [here](https://docs.google.com/presentation/d/1aRpR6L3T3qRxm9PcXUW2uhfNLv9ZAMbpMXVXOuae17Y/edit?usp=sharing)
 
-- Demo Images:
-
-  - Unsplash (unsplash.com)
-
-- Icons:
-
-  - Font Awesome (fontawesome.io)
-
-- Other:
-  - jQuery (jquery.com)
-  - esponsive Tools (github.com/ajlkn/responsive-tools)
+### Further Work
+1. Make it user responsive (Mobile friendly and responsive between different web browser sizes)
