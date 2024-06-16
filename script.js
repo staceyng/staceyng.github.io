@@ -31,11 +31,13 @@ const skills =
 
 const projects =
   '<div class="content__project-1" id="content__project-1">\
-    <img\
-      id="content__project-img"\
-      src="./static/breath-of-the-chef.jpg"\
-      alt="botc"\
-    />\
+    <a href="https://github.com/staceyng/breath-of-the-chef-recipe-guide">\
+      <img\
+        id="content__project-img"\
+        src="./static/breath-of-the-chef.jpg"\
+        alt="botc"\
+        />\
+    </a>\
     <ul>\
       <li>\
         Recipe Searching Guide made for the game -\
@@ -53,11 +55,13 @@ const projects =
     </ul>\
   </div>\
   <div class="content__project-2" id="content__project-2">\
-    <img\
-      id="content__project-img"\
-      src="./static/hand-e-caps.png"\
-      alt="hand-e-caps"\
-    />\
+    <a href="https://github.com/staceyng/hand-e-Caps">\
+      <img\
+        id="content__project-img"\
+        src="./static/hand-e-caps.png"\
+        alt="hand-e-caps"\
+        />\
+    </a>\
     <ul>\
       <li>\
         Automation script to fill in e-CAPs form\
