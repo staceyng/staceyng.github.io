@@ -71,7 +71,7 @@ const projects =
         <ul>\
           <li>Python</li>\
           <li>Selenium</li>\
-          <li>Docker</li>\
+          <li>Github Actions and Workflows</li>\
         </ul>\
       </li>\
     </ul>\
